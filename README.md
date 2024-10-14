@@ -1,14 +1,6 @@
 # 🎨 **Visual Programming (VisPro) - Tugas dan Proyek**  
 Welcome to the **'Visual Programming'** class! 🎉 This repository contains all the tasks and projects for the Visual Programming course, focusing on building mobile apps using **Dart**, **Flutter**, and **Golang**.
 
----
-
-## 📑 **Daftar Isi**  
-1. [📘 Deskripsi Mata Kuliah](#deskripsi-mata-kuliah)  
-2. [🗂️ Struktur Modul dan Tugas](#struktur-modul-dan-tugas)  
-3. [⚙️ Cara Menjalankan Tugas](#cara-menjalankan-tugas)  
-4. [🛠️ Teknologi yang Digunakan](#teknologi-yang-digunakan)  
-5. [👥 Kontributor](#kontributor)  
 
 ---
 
